@@ -1,0 +1,193 @@
+.zero {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    display: inline-block;
+}
+.one {
+    background-color: palevioletred;
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-left: 249px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+}
+.zeroh {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    display: inline-block;
+}
+.two {
+    background-color: red;
+     border: 1px solid black;
+     margin-top: 0px;
+     margin-left: 249px;
+     width: 150px;
+     height: 40px;
+     text-align: center;
+     font-size: 150%;
+     color: white;
+     font-weight: bold;
+}
+.zeroh1 {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    display: inline-block;
+}
+.three {
+    background-color: burlywood;
+     border: 1px solid black;
+     margin-top: 0px;
+     margin-left: 249px;
+     width: 150px;
+     height: 40px;
+     text-align: center;
+     font-size: 150%;
+     color: black;
+     font-weight: bold;
+}
+h1 {
+    text-align: center;
+}
+.zeru {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    display: inline-block;
+    position: relative;
+    left: 20%;
+}
+.four {
+    background-color: palevioletred;
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-left: 249px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+}
+.zeruh {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    display: inline-block;
+    position: relative;
+    left: 20%;
+}
+.five {
+    background-color: red;
+     border: 1px solid black;
+     margin-top: 0px;
+     margin-left: 249px;
+     width: 150px;
+     height: 40px;
+     text-align: center;
+     font-size: 150%;
+     color: white;
+     font-weight: bold;
+}
+.zeruh1 {
+    background-color: grey;
+    border: 1px solid black;
+    width: 60%;
+    height: 200%;
+    margin: 1px;
+    position: relative;
+    left: 272px;
+}
+.six {
+    background-color: burlywood;
+     border: 1px solid black;
+     margin-top: 0px;
+     margin-left: 649px;
+     width: 150px;
+     height: 40px;
+     text-align: center;
+     font-size: 150%;
+     color: black;
+     font-weight: bold;
+}
+.zera {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    position: relative;
+    left: 20%;
+    margin-left: 185px;
+}
+.seven {
+    background-color: palevioletred;
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-left: 249px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size: 150%;
+    color: black;
+    font-weight: bold;
+}
+.zerah {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    margin-left: 450px;
+}
+.eight {
+    background-color: red;
+     border: 1px solid black;
+     margin-top: 0px;
+     margin-left: 249px;
+     width: 150px;
+     height: 40px;
+     text-align: center;
+     font-size: 150%;
+     color: white;
+     font-weight: bold
+}
+.zerah1 {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    height: 200%;
+    margin: 1px;
+    margin-left: 450px;
+}
+.nine {
+    background-color: burlywood;
+     border: 1px solid black;
+     margin-top: 0px;
+     margin-left: 249px;
+     width: 150px;
+     height: 40px;
+     text-align: center;
+     font-size: 150%;
+     color: black;
+     font-weight: bold;
+}
+
+
+
