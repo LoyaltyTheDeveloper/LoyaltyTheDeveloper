@@ -1,47 +1,65 @@
-# Hi, I'm Loyalty Ohunmule 👋
+# Hi there, I'm Loyalty Harrison 👋
 
 💻 Full Stack Web & Mobile App Developer  
-⛓️ Blockchain Enthusiast | 🌱 Always Learning
+⛓️ Blockchain Developer  
+🌍 Passionate about building modern, scalable, and user-friendly digital experiences.
 
-I enjoy building fast, scalable, and user-friendly web and mobile applications. Passionate about creating impactful software with modern technologies and exploring the future of Web3.
+I enjoy transforming ideas into high-quality web, mobile, and blockchain applications using modern technologies and clean, maintainable code.
 
 ## 🚀 About Me
 
 - 🔭 Building full-stack web & mobile applications
-- 🌱 Learning Blockchain, Solidity & Web3
-- 💡 Passionate about clean code and great user experiences
-- 🤝 Open to collaborations and open-source projects
+- ⛓️ Exploring decentralized technologies and smart contracts
+- 💡 Passionate about clean code, scalable architecture, and great user experiences
+- 🤝 Open to collaborating on exciting projects and open-source
+- ⚡ Always learning, always building
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Database**
+### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### ⛓️ Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LoyaltyTheDeveloper&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LoyaltyTheDeveloper&theme=tokyonight"/>
 </p>
 
-## 📫 Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoyaltyTheDeveloper&layout=compact&theme=tokyonight"/>
+</p>
 
-- 🌐 Portfolio: https://t.co/TVs1BylMye
-- 📧 Email: lohunmule@gmail.com
+## 🤝 Let's Connect
 
-> *"Building solutions today, exploring the technology of tomorrow."* 🚀
+📧 **Email:** lohunmule@gmail.com
+🌐 **Portfolio:** https://t.co/TVs1BylMye
+
+💬 *"Building software that solves today's problems while shaping tomorrow's technology."* 🚀
