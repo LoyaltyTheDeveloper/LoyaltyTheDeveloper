@@ -1,24 +1,47 @@
-# 💫 About Me:
-# Hi there, I'm Loyalty Harrison 👋<br><br>💻 Full Stack Web & Mobile App Developer  <br>⛓️ Aspiring Blockchain Developer  <br>🌍 Passionate about building modern, scalable, and user-friendly applications.<br><br>## 🚀 About Me<br><br>- 🔭 Currently building full-stack web and mobile applications.<br>- 🌱 Exploring **Blockchain**, **Web3**, and **Smart Contract Development**.<br>- 💡 I enjoy solving real-world problems with clean, scalable code.<br>- 📱 I build responsive web apps and cross-platform mobile apps.<br>- 🤝 Always open to collaborating on exciting and impactful projects.<br>- ⚡ Fun fact: I love turning ideas into products that people actually use.<br><br>## 🛠️ Tech Stack<br><br>### Frontend<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br><br>### Backend<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)<br><br>### Database<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>### Languages & Tools<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br><br>## 🌱 Currently Learning<br><br>- 🔗 Solidity<br>- 🌐 Web3 Development<br>- ⚙️ Smart Contracts<br>- 🔐 Blockchain Security<br><br>## 📈 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/><br></p><br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/><br></p><br><br>## 🤝 Let's Connect<br><br>📧 Email: lohunmule@gmail.com<br><br>💬 *"Great software isn't just about writing code—it's about creating experiences that make a difference."* ✨
+# Hi, I'm Loyalty Ohunmule 👋
 
+💻 Full Stack Web & Mobile App Developer  
+⛓️ Blockchain Enthusiast | 🌱 Always Learning
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1390509656040014005) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ya_boi_loya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohunmule@gmail.com) 
+I enjoy building fast, scalable, and user-friendly web and mobile applications. Passionate about creating impactful software with modern technologies and exploring the future of Web3.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LoyaltyTheDeveloper&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=LoyaltyTheDeveloper&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LoyaltyTheDeveloper&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LoyaltyTheDeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🔭 Building full-stack web & mobile applications
+- 🌱 Learning Blockchain, Solidity & Web3
+- 💡 Passionate about clean code and great user experiences
+- 🤝 Open to collaborations and open-source projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## 🛠️ Tech Stack
 
----
-[![](https://komarev.com/ghpvc/?username=LoyaltyTheDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+**Frontend**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+## 📫 Connect
+
+- 🌐 Portfolio: https://t.co/TVs1BylMye
+- 📧 Email: lohunmule@gmail.com
+
+> *"Building solutions today, exploring the technology of tomorrow."* 🚀
