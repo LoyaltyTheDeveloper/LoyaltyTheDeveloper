@@ -46,16 +46,19 @@ I enjoy transforming ideas into high-quality web, mobile, and blockchain applica
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LoyaltyTheDeveloper&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=LoyaltyTheDeveloper&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LoyaltyTheDeveloper&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LoyaltyTheDeveloper&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LoyaltyTheDeveloper&theme=tokyonight"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LoyaltyTheDeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoyaltyTheDeveloper&layout=compact&theme=tokyonight"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=LoyaltyTheDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🤝 Let's Connect
 
