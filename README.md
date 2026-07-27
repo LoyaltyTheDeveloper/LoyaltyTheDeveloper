@@ -1,4 +1,4 @@
-# Hi there, I'm Loyalty Harrison 👋
+# Hi there, I'm Loyalty 👋
 
 💻 Full Stack Web & Mobile App Developer  
 ⛓️ Blockchain Developer  
